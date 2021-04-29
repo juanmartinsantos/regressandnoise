@@ -4,7 +4,7 @@ This web-page contains complementary material to the research paper:
 
 | <a href="#img1"><img src="bannercolor.jpg" width="100" height="10"></a>| <a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|
 |:---|:---|
-|<a href="#img1"><img src="icon-research.jpg" width="150"></a>|Juan Martín, José A. Sáez, Emilio Corchado. **On the regressand noise problem: robustness of regression methods and synergy with new filters**. [IEEE access](https://ieeeaccess.ieee.org/), 2021 (submitted).|
+|<a href="#img1"><img src="icon-research.jpg" width="150"></a>|Juan Martín, José A. Sáez, Emilio Corchado. **On the regressand noise problem: robustness of regression methods and synergy with new filters**. [IEEE Access](https://ieeeaccess.ieee.org/), 2021 (submitted).|
 | <a href="#img1"><img src="bannercolor.jpg" width="100" height="10"></a>| <a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|
 
 <br>
