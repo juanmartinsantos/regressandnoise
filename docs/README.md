@@ -50,8 +50,8 @@ These datasets can be downloaded from the web-pages:
 |&nbsp;&nbsp;&nbsp;**-** *Performance results of XGBoost.* | [<img src="icon-excel.png" width="50">](https://github.com/juanmartinsantos/regressandnoise/blob/main/docs/RMSE_XGBoost_git.xlsx?raw=true)|
 |<a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|<a href="#img1"><img src="bannercolor.jpg" width="100" height="10"></a>|
 
-| <a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|
-|:---|:---|
-|J. Martín, J. A. Sáez and E. Corchado, **"On the Regressand Noise Problem: Model Robustness and Synergy With Regression-Adapted Noise Filters,"** in IEEE Access, vol. 9, pp. 145800-145816, 2021, doi: [https://doi.org/10.1109/ACCESS.2021.3123151].|
-| <a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>|
+
+<a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>
+J. Martín, J. A. Sáez and E. Corchado, **"On the Regressand Noise Problem: Model Robustness and Synergy With Regression-Adapted Noise Filters,"** in IEEE Access, vol. 9, pp. 145800-145816, 2021, doi: [https://doi.org/10.1109/ACCESS.2021.3123151].
+<a href="#img1"><img src="bannercolor.jpg" width="750" height="10"></a>
 
